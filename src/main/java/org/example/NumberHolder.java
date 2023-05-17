@@ -9,6 +9,7 @@ public class NumberHolder {
 
     public NumberHolder(int intNumber) {
         this.intNumber = intNumber;
+        this.floatNumber = 25f;
     }
 
     @Override
